@@ -1,0 +1,15 @@
+E:\STUDY\practice projects\StudentManage\StudentManage\bin\Debug\netcoreapp2.1\StudentManage.deps.json
+E:\STUDY\practice projects\StudentManage\StudentManage\bin\Debug\netcoreapp2.1\StudentManage.runtimeconfig.json
+E:\STUDY\practice projects\StudentManage\StudentManage\bin\Debug\netcoreapp2.1\StudentManage.runtimeconfig.dev.json
+E:\STUDY\practice projects\StudentManage\StudentManage\bin\Debug\netcoreapp2.1\StudentManage.dll
+E:\STUDY\practice projects\StudentManage\StudentManage\obj\Debug\netcoreapp2.1\StudentManage.csprojAssemblyReference.cache
+E:\STUDY\practice projects\StudentManage\StudentManage\obj\Debug\netcoreapp2.1\StudentManage.csproj.CoreCompileInputs.cache
+E:\STUDY\practice projects\StudentManage\StudentManage\obj\Debug\netcoreapp2.1\StudentManage.RazorAssemblyInfo.cache
+E:\STUDY\practice projects\StudentManage\StudentManage\obj\Debug\netcoreapp2.1\StudentManage.RazorAssemblyInfo.cs
+E:\STUDY\practice projects\StudentManage\StudentManage\obj\Debug\netcoreapp2.1\StudentManage.AssemblyInfoInputs.cache
+E:\STUDY\practice projects\StudentManage\StudentManage\obj\Debug\netcoreapp2.1\StudentManage.AssemblyInfo.cs
+E:\STUDY\practice projects\StudentManage\StudentManage\obj\Debug\netcoreapp2.1\StudentManage.RazorTargetAssemblyInfo.cache
+E:\STUDY\practice projects\StudentManage\StudentManage\bin\Debug\netcoreapp2.1\StudentManage.pdb
+E:\STUDY\practice projects\StudentManage\StudentManage\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\STUDY\practice projects\StudentManage\StudentManage\obj\Debug\netcoreapp2.1\StudentManage.dll
+E:\STUDY\practice projects\StudentManage\StudentManage\obj\Debug\netcoreapp2.1\StudentManage.pdb
